@@ -1,7 +1,10 @@
-# myTestApp
+## myTestApp
+Repoyu indirdikten sonra
+Bu dosyayı dizini girerek aç [Beni_ac.html](beni_ac.html).
+"E:/www/nuxt/myTestApp/beni_ac.html"
 
+## Bu html sayfasında çalışan "components_modals.js" dosyasının nuxt projesine dahil edilip çalıştırılması gerekir.
 ## Build Setup
-
 ```bash
 # install dependencies
 $ npm install
@@ -18,3 +21,6 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+
+![Ekran görüntüsü](Screenshot2020.png)
