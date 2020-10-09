@@ -5,7 +5,7 @@
       <div class="jumbotron pt-5 mt-5">
         <h1  class="display-4">Page1 </h1>
         <h1  id="baslik1" class="display-4">Test sayfası!</h1>
-        <p class="lead ">Modal button denemesi.</p>
+        <p class="lead">Modal button denemesi.</p>
         <hr class="my-4">
         <p>Tıkla ve çalışıp çalışmadığını test et...</p>
 
