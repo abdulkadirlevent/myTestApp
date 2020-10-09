@@ -23,4 +23,4 @@ $ npm run generate
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 
 
-![Ekran görüntüsü](Screenshot.png)
+![Ekran görüntüsü](Screenshot2020.png)
