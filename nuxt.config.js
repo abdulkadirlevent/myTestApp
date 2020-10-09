@@ -16,9 +16,9 @@ export default {
     ],
     script:[
       // Not found hatası veriyor.
-       //{ type: "text/javascript", src: 'assets/js/jquery-3.5.1.slim.min.js',body:true},
-       //{ type: "text/javascript", src: 'assets/js/bootstrap.bundle.min.js',body:true },
-       //{ type: "text/javascript", src: 'assets/js/components_modals.js',body:true}
+       { type: "text/javascript", src: '/js/jquery-3.5.1.slim.min.js',body:true},
+       { type: "text/javascript", src: '/js/bootstrap.bundle.min.js',body:true },
+       { type: "text/javascript", src: '/js/components_modals.js',body:true}
     ],
   },
 
