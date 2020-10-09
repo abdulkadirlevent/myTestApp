@@ -1,6 +1,6 @@
 ## myTestApp
 Repoyu indirdikten sonra
-Bu sayfayı dizini girerek aç [Beni_ac.html](beni_ac.html).
+Bu dosyayı dizini girerek aç [Beni_ac.html](beni_ac.html).
 "E:/www/nuxt/myTestApp/beni_ac.html"
 
 ## Bu html sayfasında çalışan "components_modals.js" dosyasının nuxt projesine dahil edilip çalıştırılması gerekir.
