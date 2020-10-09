@@ -16,9 +16,9 @@ export default {
     ],
     script:[
       // Not found hatası veriyor.
-       { type: "text/javascript", src: 'assets/js/jquery-3.5.1.slim.min.js',body:true},
-       { type: "text/javascript", src: 'assets/js/bootstrap.bundle.min.js',body:true },
-       { type: "text/javascript", src: 'assets/js/components_modals.js',body:true}
+       //{ type: "text/javascript", src: 'assets/js/jquery-3.5.1.slim.min.js',body:true},
+       //{ type: "text/javascript", src: 'assets/js/bootstrap.bundle.min.js',body:true },
+       //{ type: "text/javascript", src: 'assets/js/components_modals.js',body:true}
     ],
   },
 
@@ -26,6 +26,7 @@ export default {
   css: [
     '~/assets/css/bootstrap.min.css',
   ],
+
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
   plugins: [
