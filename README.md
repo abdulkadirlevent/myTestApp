@@ -2,7 +2,9 @@
 
 ## Build Setup
 
-Önce Bunu AÇ [Beni_ac.html](beni_ac.html).
+Repoyu indirdikten sonra
+Bu sayfayı dizini girerek aç [Beni_ac.html](beni_ac.html).
+"E:/www/nuxt/myTestApp/beni_ac.html"
 
 ```bash
 # install dependencies
