@@ -3,7 +3,7 @@
     <main role="main" class="container">
 
       <div class="jumbotron pt-5 mt-5">
-        <h1  class="display-4">Home</h1>
+        <h1  class="display-4">Page2</h1>
         <h1  id="baslik1" class="display-4">Test sayfası!</h1>
         <p class="lead">Modal button denemesi.</p>
         <hr class="my-4">
