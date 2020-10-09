@@ -1,7 +1,5 @@
 # myTestApp
-
 ## Build Setup
-
 Repoyu indirdikten sonra
 Bu sayfayı dizini girerek aç [Beni_ac.html](beni_ac.html).
 "E:/www/nuxt/myTestApp/beni_ac.html"
