@@ -2,6 +2,8 @@
 
 ## Build Setup
 
+Önce Bunu AÇ [Beni_ac.html](beni_ac.html).
+
 ```bash
 # install dependencies
 $ npm install
